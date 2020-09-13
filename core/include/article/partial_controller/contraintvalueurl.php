@@ -1,0 +1,1 @@
+<?php $Tab_value_saction=array('Add','PutOnline','PutOffline','Detail','Del', 'Img');
